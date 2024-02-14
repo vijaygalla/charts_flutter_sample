@@ -1,5 +1,5 @@
-import 'package:charts_sample_app/bar_data.dart';
-import 'package:charts_sample_app/individual_bar_data.dart';
+import 'package:charts_sample_app/Bar Chart/bar_data.dart';
+import 'package:charts_sample_app/Bar%20Chart/individual_bar_data.dart';
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
 

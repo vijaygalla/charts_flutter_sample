@@ -1,4 +1,4 @@
-import 'package:charts_sample_app/individual_bar_data.dart';
+import 'package:charts_sample_app/Bar%20Chart/individual_bar_data.dart';
 
 class BarData {
   final double sun;

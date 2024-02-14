@@ -1,6 +1,6 @@
-import 'package:charts_sample_app/bar_chart.dart';
-import 'package:charts_sample_app/line_chart.dart';
-import 'package:charts_sample_app/pie_chart.dart';
+import 'package:charts_sample_app/Bar Chart/bar_chart.dart';
+import 'package:charts_sample_app/Line%20Chart/line_chart.dart';
+import 'package:charts_sample_app/Pie%20Chart/pie_chart.dart';
 import 'package:flutter/material.dart';
 
 void main() {
